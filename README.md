@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🌱 Atualmente aprendendo JavaScript, HTML, CSS e TypeScript
+- 🌱 Atualmente estudando JavaScript, HTML, CSS e TypeScript
 
 <div align="center">
   <a href="https://github.com/gQuaresmapaes">
